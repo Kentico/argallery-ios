@@ -21,6 +21,7 @@ How to run:
 
 *If you want to run on a device with iOs 12 or higher using Xcode 9.2 you have to[import device support](https://github.com/filsv/iPhoneOSDeviceSupport) for your particular iOs version.*
 
+![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/argallery-ios?pixel)
 
 ## Looking for Android?
 [![Google Android](./screenshots/android.png) Click here](https://github.com/Kentico/argallery-android)
