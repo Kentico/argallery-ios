@@ -8,7 +8,7 @@ protocol KenticoClientServiceType {
 
 class KenticoClientService: BaseService, KenticoClientServiceType {
     
-    let client = DeliveryClient.init(projectId: "17bbb0c7-e46c-45ab-b1d2-177ab5f9244f")
+    let client = DeliveryClient.init(projectId: "620a29c8-8672-00b6-7084-5c282fe5f80f")
     
     func getClient() -> Observable<DeliveryClient> {
         return Observable.just(client)
