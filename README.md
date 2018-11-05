@@ -4,7 +4,7 @@
 
 Implementation of an art gallery application for iOS written in Swift utilizing Kentico Cloud CMS for content management.
 
-With the ARKit development platform, the application supports Augmented Reality and is able to create a virtual gallery within real environment. Examples of how the app work can be seen [here](https://is.muni.cz/th/yabmm/videos.zip).
+With the ARKit development platform, the application supports Augmented Reality and is able to create a virtual gallery within real environment. Examples of working apps can be seen [here](https://is.muni.cz/th/yabmm/videos.zip).
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/Kentico/argallery-ios/master/screenshots/inAction.PNG" width="250" height="500"/>
