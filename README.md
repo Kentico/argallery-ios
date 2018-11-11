@@ -19,7 +19,7 @@ How to run:
 1. Open *ARGallery.workspace* workspace in XCode.
 1. [Run on a real device](https://help.apple.com/xcode/mac/current/#/dev5a825a1ca) since AR capabilities are not supported in the simulator.
 
-*If you want to run on a device with iOs 12 or higher using Xcode 9.2 you have to[import device support](https://github.com/filsv/iPhoneOSDeviceSupport) for your particular iOs version.*
+*If you want to run on a device with iOs 12 or higher using Xcode 9.2 you have to [import device support](https://github.com/filsv/iPhoneOSDeviceSupport) for your particular iOs version.*
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/argallery-ios?pixel)
 
