@@ -1,6 +1,6 @@
 # Kentico Cloud Art Gallery Application for iOS
 
-[![Forums](https://img.shields.io/badge/chat-on%20forums-orange.svg)](https://forums.kenticocloud.com) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
 
 Implementation of an art gallery application for iOS written in Swift utilizing Kentico Cloud CMS for content management.
 
